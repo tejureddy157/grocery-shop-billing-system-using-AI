@@ -22,7 +22,7 @@ The dashboard displays important business insights including:
 <img width="1811" height="920" alt="Image" src="https://github.com/user-attachments/assets/1702e826-702f-4959-a386-b57c783d6120" />
 <img width="1907" height="783" alt="Image" src="https://github.com/user-attachments/assets/16ada118-a0a6-4588-bcc3-d32a487b9d89" />
 <img width="1865" height="910" alt="Image" src="https://github.com/user-attachments/assets/90bc99e8-4ecc-4ffd-ad41-8dc78478c854" />
-<img width="1872" height="912" alt="Image" src="https://github.com/user-attachments/assets/d6b50942-f649-4bb8-91c6-91319775d2c2" />
+
 ### Billing System
 The billing interface allows the shop owner to:
 - Search products
