@@ -18,9 +18,7 @@ The dashboard displays important business insights including:
 - Top Selling Product
 - Low Stock Alerts
 - Visual sales charts
-<img width="1885" height="946" alt="Image" src="https://github.com/user-attachments/assets/75acfbd3-6dc5-4ec9-b5b8-965b773ae26b" />
-<img width="1811" height="920" alt="Image" src="https://github.com/user-attachments/assets/1702e826-702f-4959-a386-b57c783d6120" />
-<img width="1907" height="783" alt="Image" src="https://github.com/user-attachments/assets/16ada118-a0a6-4588-bcc3-d32a487b9d89" />
+  
 <img width="1865" height="910" alt="Image" src="https://github.com/user-attachments/assets/90bc99e8-4ecc-4ffd-ad41-8dc78478c854" />
 
 ### Billing System
@@ -30,7 +28,8 @@ The billing interface allows the shop owner to:
 - Adjust quantity
 - Automatically calculate total price
 - Complete customer sales quickly
-
+  
+<img width="1907" height="783" alt="Image" src="https://github.com/user-attachments/assets/16ada118-a0a6-4588-bcc3-d32a487b9d89" />
 ### Product Management
 Users can manage store products easily:
 - Add new products
@@ -39,9 +38,11 @@ Users can manage store products easily:
 - Categorize products (Rice, Dal, Cooking Oil)
 - Track stock availability
 
+<img width="1811" height="920" alt="Image" src="https://github.com/user-attachments/assets/1702e826-702f-4959-a386-b57c783d6120" />
 ### Stock Management
 The system keeps track of product stock levels and helps monitor inventory.
 
+<img width="1885" height="946" alt="Image" src="https://github.com/user-attachments/assets/75acfbd3-6dc5-4ec9-b5b8-965b773ae26b" />
 ### Sales Reports
 Reports provide detailed sales insights such as:
 - Total sales
