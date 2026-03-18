@@ -5,7 +5,9 @@ This application helps manage **product inventory, billing, sales tracking, and 
 
 ## Live Application
 https://brundatraders.lovable.app
+
 <img width="1872" height="912" alt="Image" src="https://github.com/user-attachments/assets/d6b50942-f649-4bb8-91c6-91319775d2c2" />
+
 ## Key Features
 
 ### Secure Login System
